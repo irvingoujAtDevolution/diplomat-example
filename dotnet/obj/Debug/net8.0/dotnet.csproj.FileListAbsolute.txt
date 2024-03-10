@@ -1,0 +1,14 @@
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfo.cs
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\jou\code\examples\diplomat-example\dotnet\bin\Debug\net8.0\dotnet.exe
+C:\Users\jou\code\examples\diplomat-example\dotnet\bin\Debug\net8.0\dotnet.deps.json
+C:\Users\jou\code\examples\diplomat-example\dotnet\bin\Debug\net8.0\dotnet.runtimeconfig.json
+C:\Users\jou\code\examples\diplomat-example\dotnet\bin\Debug\net8.0\dotnet.dll
+C:\Users\jou\code\examples\diplomat-example\dotnet\bin\Debug\net8.0\dotnet.pdb
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.dll
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\refint\dotnet.dll
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.pdb
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
+C:\Users\jou\code\examples\diplomat-example\dotnet\obj\Debug\net8.0\ref\dotnet.dll
